@@ -1,0 +1,5 @@
+rootProject.name = 'MiniChat'
+include 'core'
+include 'server'
+include 'client'
+
